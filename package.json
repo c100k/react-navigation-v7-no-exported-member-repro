@@ -1,0 +1,18 @@
+{
+  "name": "react-navigation-v7-no-exported-member-repro",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.0.6",
+    "react": "^18.3.1",
+    "react-native": "^0.76.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
